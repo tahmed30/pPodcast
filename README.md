@@ -1,4 +1,4 @@
-# The Future in Tech
+# This is an extenstion of the YouTube.com/@teachertariku 
 
 <img src="https://tahmed30.github.io/podcast/images/artwork.jpg" width="300">
 
