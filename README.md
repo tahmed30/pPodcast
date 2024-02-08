@@ -9,7 +9,7 @@
 
 <img src="https://tahmed30.github.io/podcast/images/artwork5.jpg" width="500">
 ---
-## The Eight Parts of Speech ስምንቱ የንግግር ክፍሎች
+## The Eight Parts of Speech ስምንቱ የንግግር ክፍሎች 
 - [Noun ስም](https://youtu.be/zeiydz9Q1uU?si=9ygI6Fo9_3mbfIuh)
 - [Pronoun ተውላጠ ስም](https://youtu.be/2tEHpYcFdmk?si=6FJ8iwyQxrKzoglM)
 - [Adjectives ቅፅል](https://youtu.be/K8z0jfBnfQo?si=c-ZQwOZ4ecnGBFLz)
@@ -19,3 +19,4 @@
 - [Prepositions መስተዋድድ](https://youtu.be/LpbuTManZYI?si=rs7aGFtsoH5vzFyn)
 - [Conjunction መስተፃምር](https://youtu.be/YLpCWI80Yww?si=-GGty6uwrqpv3yUW)
 - [የአማርኛ ስርዐተ ነጥቦች Amharic Punctuation Marks](https://youtu.be/xc5H3esDeVM?si=CBZeo-IG6QejOeYe)
+<img src="https://tahmed30.github.io/podcast/images/Parts of Speech.png.jpg" width="500">
