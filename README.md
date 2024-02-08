@@ -19,4 +19,4 @@
 - [Prepositions መስተዋድድ](https://youtu.be/LpbuTManZYI?si=rs7aGFtsoH5vzFyn)
 - [Conjunction መስተፃምር](https://youtu.be/YLpCWI80Yww?si=-GGty6uwrqpv3yUW)
 - [የአማርኛ ስርዐተ ነጥቦች Amharic Punctuation Marks](https://youtu.be/xc5H3esDeVM?si=CBZeo-IG6QejOeYe)
-<img src="https://github.com/tahmed30/podcast/blob/main/images/Parts%20of%20Speech.png" width="500">
+<img src="https://github.com/tahmed30/podcast/blob/main/images/PartsofSpeech.png" width="500">
