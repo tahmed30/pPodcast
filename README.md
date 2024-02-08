@@ -1,4 +1,5 @@
-# This is an extenstion of the[https://www.youtube.com/@teacherTariku] (https://www.youtube.com/@teacherTariku) 
+# This is an extenstion of the
+[https://www.youtube.com/@teacherTariku](https://www.youtube.com/@teacherTariku) 
 
 <img src="https://tahmed30.github.io/podcast/images/artwork.jpg" width="500">
 
