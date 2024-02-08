@@ -1,6 +1,6 @@
-# The Future in Tech
+# This is an extenstion of the YouTube.com/@teachertariku 
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
+<img src="https://tahmed30.github.io/podcast/images/artwork.jpg" width="300">
 
 The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
 
