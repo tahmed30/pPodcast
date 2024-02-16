@@ -9,7 +9,6 @@
 
 
 <img src="https://tahmed30.github.io/podcast/images/artwork5.jpg" width="500">
----
 ## The Eight Parts of Speech ስምንቱ የንግግር ክፍሎች 
 - [Noun ስም](https://youtu.be/zeiydz9Q1uU?si=9ygI6Fo9_3mbfIuh)
 - [Pronoun ተውላጠ ስም](https://youtu.be/2tEHpYcFdmk?si=6FJ8iwyQxrKzoglM)
