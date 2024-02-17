@@ -1,7 +1,7 @@
 # This is an extenstion of the
 [https://www.youtube.com/@teacherTariku](https://www.youtube.com/@teacherTariku) 
 
-<img src="https://github.com/tahmed30/podcast/blob/main/images/Teachertariku.png" width="500">
+<img src="https://github.com/tahmed30/podcast/blob/main/images/Teachertariku.png" width="499">
 
 @teachertariku on YouTube.com brings your child easy to understand, & fun short videos on Technology, Math, English, Science, and Amharic.    
 
